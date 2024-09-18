@@ -1,0 +1,16 @@
+{
+  "name": "testDemo.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countLength.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha mocha_chai.mjs"
+  },
+  "private": true,
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "sinon": "^19.0.2"
+  }
+}
